@@ -1,8 +1,8 @@
-## Hi, I'm Evlers, a Developer 🚀 from China.
-
-**Talking about Personal Stuffs**
-<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+# Hi, I'm Evlers, a Developer 🚀 from China.
 <img img higth="20%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evlers&hide=c&theme=dark" />
+
+## Talking about Personal Stuffs
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 - 👨🏽‍💻 I am currently working in Shenzhen, Guangdong Province.
 - 🤔 My diploma is not too high, But I have a strong interest in programming.
