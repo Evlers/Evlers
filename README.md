@@ -1,15 +1,17 @@
 ## Hi, I'm Evlers, a Developer 🚀 from China.
 
 **Talking about Personal Stuffs**
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
+<img img higth="20%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evlers&hide=c&theme=dark" />
 
 - 👨🏽‍💻 I am currently working in Shenzhen, Guangdong Province.
 - 🤔 My diploma is not too high, But I have a strong interest in programming.
 - 🌱 I’m currently learning Linux and IOT.
 - 💬 Ask me about anything, I am happy to help.
 - ⚡️ I am good at the MCU programming.
+- ⭐ Ability to make simple digital circuits using Altium Designe.
 - 📫 How to reach me: 1425295900@qq.com. [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](1425295900@qq.com)
-
+- 🌏 Available languages for me Chinese, English.
 
 ## 🛠 Tech Stack
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=white)
