@@ -1,7 +1,9 @@
 # Hi, I'm Evlers, a Developer 🚀 from China.
 
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:1425295900@qq.com)
-![WeChat](https://img.shields.io/badge/-Evlers-c14438?style=flat&logo=WeChat&logoColor=white)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=Github&logoColor=white)](https://github.com/Evlers/)
+[![QQMail](https://img.shields.io/badge/-QQMail-blue?style=flat&logo=Gmail&logoColor=white)](mailto:1425295900@qq.com)
+[![SinaWeiBo](https://img.shields.io/badge/-Sina-c14438?style=flat&logo=SinaWeiBo&logoColor=white)](https://weibo.com/u/2181191791)
+![WeChat](https://img.shields.io/badge/-Evlers-c6740858?style=flat&logo=WeChat&logoColor=white)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evlers&hide=c&theme=dark" />
 
