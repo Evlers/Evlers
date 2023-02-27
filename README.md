@@ -1,7 +1,12 @@
 # Hi, I'm Evlers, a Developer 🚀 from China.
-<img img higth="20%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evlers&hide=c&theme=dark" />
+
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:1425295900@qq.com)
+![WeChat](https://img.shields.io/badge/-Evlers-c14438?style=flat&logo=WeChat&logoColor=white)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evlers&hide=c&theme=dark" />
 
 ## Talking about Personal Stuffs
+
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
 - 👨🏽‍💻 I am currently working in Shenzhen, Guangdong Province.
@@ -10,10 +15,11 @@
 - 💬 Ask me about anything, I am happy to help.
 - ⚡️ I am good at the MCU programming.
 - ⭐ Ability to make simple digital circuits using Altium Designe.
-- 📫 How to reach me: 1425295900@qq.com. [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](1425295900@qq.com)
+- 📫 How to reach me: 1425295900@qq.com. 
 - 🌏 Available languages for me Chinese, English.
 
-## 🛠 Tech Stack
+## Tech Stack
+
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=white)
 ![QT](https://img.shields.io/badge/-QT-333333?style=flat&logo=QT&logoColor=white)
 ![BLE](https://img.shields.io/badge/-BLE-333333?style=flat&logo=Bluetooth&logoColor=white)
