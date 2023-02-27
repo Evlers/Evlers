@@ -38,6 +38,7 @@
 ![FileSystem](https://img.shields.io/badge/-FileSystem-333333?style=flat&logo=FileSystem&logoColor=white)
 ![LVGL](https://img.shields.io/badge/-LVGL-333333?style=flat&logo=LVGL&logoColor=white)
 ![C/C++](https://img.shields.io/badge/-C/C++-333333?style=flat&logo=C/C++&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python&logoColor=white)
 ![ObjectC](https://img.shields.io/badge/-ObjectC-333333?style=flat&logo=ObjectC&logoColor=white)
 
 
